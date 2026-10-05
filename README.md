@@ -7,6 +7,9 @@ An interactive **EV Charging Analytics Dashboard** built in Microsoft Excel to a
 This project analyzes EV charging station data to identify trends in revenue, charging activity, energy delivery, and charger performance.
 
 The analysis was performed using **Excel, Pivot Tables, Pivot Charts, data cleaning, and interactive dashboard techniques**.
+## 📊 Dashboard Preview
+
+![EV Charging Analytics Dashboard](EV_dashboard.PNG)
 
 ## 🎯 Project Objectives
 
